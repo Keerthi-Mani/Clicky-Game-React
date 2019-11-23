@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "../assets/Mamoswine.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "../assets/Pikachu.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "../assets/Articuno.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "../assets/Raid Bosses.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "../assets/Dartiri.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "../assets/Raichu.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "../assets/Cresselia.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "../assets/Alakazam.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "../assets/Arcanine.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "../assets/Entei.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "../assets/Dragonite.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "../assets/Flareon.jpeg",
+    "clicked": false
+  }
+]
